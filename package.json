@@ -1,0 +1,31 @@
+{
+  "name": "hot-universal-trinity",
+  "version": "0.0.1",
+  "description": "React + Redux + Router universal hot enabled boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PeterPanen/hot-universal-trinity.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "react-redux",
+    "react-router"
+  ],
+  "author": "Rasmus Knudsen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PeterPanen/hot-universal-trinity/issues"
+  },
+  "homepage": "https://github.com/PeterPanen/hot-universal-trinity#readme",
+  "dependencies": {
+    "react": "^0.14.7",
+    "react-redux": "^4.4.0",
+    "react-router": "^2.0.0",
+    "redux": "^3.3.1"
+  }
+}
